@@ -1,4 +1,5 @@
 # BullChain
 Snake console game
 
-<img width="1730" height="923" alt="prew" src="https://github.com/user-attachments/assets/6523386c-cda0-44ae-a9e9-af71351fee70" />
+<img width="1730" height="923" alt="prew" src="https://github.com/user-attachments/assets/9f9525cf-b9e7-44c0-924c-0325f3cb16c5" />
+
